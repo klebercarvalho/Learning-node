@@ -82,3 +82,8 @@ Listing globally installed NPM packages and version
 ```sh
 $ npm list -g
 ```
+
+body-parser
+```sh
+$ sudo npm install body-parser --save
+```
