@@ -87,3 +87,8 @@ body-parser
 ```sh
 $ sudo npm install body-parser --save
 ```
+
+express-validator
+```sh
+$ sudo npm install express-validator --save
+```
