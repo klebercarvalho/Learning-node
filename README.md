@@ -70,5 +70,5 @@ $ npm list -g --depth=0
 
 Listing globally installed NPM packages and version
 ```sh
-$ npm ls -g
+$ npm list -g
 ```
