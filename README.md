@@ -25,6 +25,16 @@ $ sudo npm init
 
 Install in your local env
 ```sh
+$ sudo npm install <package-name> -save
+```
+
+Express
+```sh
+$ sudo npm install express -save
+```
+
+Install in your local env
+```sh
 $ sudo npm install express -save
 ```
 
