@@ -36,6 +36,22 @@ Install in your local env
 $ sudo npm install <package-name> -save
 ```
 
+Install in globally package
+```sh
+$ sudo npm install <package-name> -save
+```
+
+
+Install in your local env
+```sh
+$ sudo npm uninstall <package-name> -save
+```
+
+Install in globally package
+```sh
+$ sudo npm uninstall <package-name> -save
+```
+
 To see the latest version of all the npm package installed, including their dependencies
 ```sh
 $ npm list
