@@ -51,10 +51,6 @@ You can get the version of a specific package by specifying the name:
 $  npm list [package_name]
 ```
 
-You can get the version of a specific package by specifying the name. This also works for dependencies of packages you installed (minimist)
-```sh
-$  npm list [package_name] minimist
-```
 
 You can get the version of a specific package by specifying the name. This also works for dependencies of packages you installed (minimist)
 ```sh
