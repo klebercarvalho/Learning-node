@@ -36,6 +36,36 @@ Install in your local env
 $ sudo npm install <package-name> -save
 ```
 
+To see the latest version of all the npm package installed, including their dependencies
+```sh
+$ npm list
+```
+
+To see the latest version globally of all the npm package installed, including their dependencies
+```sh
+$ npm list -g
+```
+
+You can get the version of a specific package by specifying the name:
+```sh
+$  npm list [package_name]
+```
+
+You can get the version of a specific package by specifying the name. This also works for dependencies of packages you installed (minimist)
+```sh
+$  npm list [package_name] minimist
+```
+
+You can get the version of a specific package by specifying the name. This also works for dependencies of packages you installed (minimist)
+```sh
+$  npm list [package_name] minimist
+```
+
+f you want to see what’s the latest available version of the package on the npm repository, run npm view [package_name] version:
+```sh
+$  npm view [package_name] version
+```
+
 Express
 ```sh
 $ sudo npm install express -save
