@@ -6,6 +6,14 @@ n – Interactively Manage Your Node.js Versions
 [https://github.com/tj/n](https://github.com/tj/n)
 
 
+n – Node Version Manager
+
+[https://github.com/creationix/nvm](https://github.com/creationix/nvm)
+
+
+[https://yoember.com/nodejs/the-best-way-to-install-node-js/](https://yoember.com/nodejs/the-best-way-to-install-node-js/)
+
+
 
 
 node version
