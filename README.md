@@ -1,5 +1,5 @@
-# Learning-node
-Learning Node
+# Learning-NPM
+Learning NPM
 
 n – Interactively Manage Your Node.js Versions
 
