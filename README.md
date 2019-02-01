@@ -49,7 +49,7 @@ $ sudo npm uninstall <package-name> -save
 
 Install in globally package
 ```sh
-$ sudo npm uninstall <package-name> -save
+$ sudo npm -g uninstall <package-name> -save
 ```
 
 To see the latest version of all the npm package installed, including their dependencies
@@ -60,6 +60,11 @@ $ npm list
 To see the latest version globally of all the npm package installed, including their dependencies
 ```sh
 $ npm list -g
+```
+
+To see the latest version globally of all the npm package installed, including their dependencies
+```sh
+$ npm list -g --depth 0
 ```
 
 You can get the version of a specific package by specifying the name:
